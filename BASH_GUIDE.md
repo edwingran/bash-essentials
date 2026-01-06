@@ -1,4 +1,4 @@
-# 📚 Bash - Registro de Aprendizaje
+# 📚 Bash - GUIDE
 
 **Autor:** jegacode  
 **Inicio:** Enero 2026  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Comandos Aprendidos
+## 📋 Primeros Comandos
 
 ### Navegación
 | Comando | Descripción |
